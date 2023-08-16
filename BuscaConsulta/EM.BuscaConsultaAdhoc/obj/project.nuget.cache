@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XUiac4OhPF5y6O1k5/6yH04wz3KSIaTx4nf0v66F3gpYOifvFlY0uvWh8y1kNPOqsNP0ckPpVNDQFw1G/a7fg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\ferramenta2\\ferramentas\\EM.BuscaConsultaAdhoc\\EM.BuscaConsultaAdhoc\\EM.BuscaConsultaAdhoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\firebirdsql.data.firebirdclient\\9.1.1\\firebirdsql.data.firebirdclient.9.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

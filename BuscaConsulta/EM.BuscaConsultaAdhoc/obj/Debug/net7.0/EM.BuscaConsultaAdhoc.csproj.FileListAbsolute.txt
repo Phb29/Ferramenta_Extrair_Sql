@@ -1,0 +1,17 @@
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\EM.BuscaConsultaAdhoc.exe
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\EM.BuscaConsultaAdhoc.deps.json
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\EM.BuscaConsultaAdhoc.runtimeconfig.json
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\EM.BuscaConsultaAdhoc.dll
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\EM.BuscaConsultaAdhoc.pdb
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\bin\Debug\net7.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.csproj.AssemblyReference.cache
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.AssemblyInfoInputs.cache
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.AssemblyInfo.cs
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.csproj.CoreCompileInputs.cache
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.csproj.CopyComplete
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.dll
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\refint\EM.BuscaConsultaAdhoc.dll
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.pdb
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\EM.BuscaConsultaAdhoc.genruntimeconfig.cache
+C:\Work\ferramenta2\ferramentas\EM.BuscaConsultaAdhoc\EM.BuscaConsultaAdhoc\obj\Debug\net7.0\ref\EM.BuscaConsultaAdhoc.dll
